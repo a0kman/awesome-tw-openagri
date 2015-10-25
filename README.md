@@ -65,7 +65,7 @@
 ##### Data
 
 * [臺灣農產品安全追溯資訊網](http://taft.coa.gov.tw/)
-
+OPEN完整產銷履歷
 ##### Project
 
 * [小農故事](http://g0v.github.io/farmers/public/index.html)
@@ -74,7 +74,7 @@
 
 ##### Project
 
-* [農業生產者資訊揭露平台](https://g0v.hackpad.com/gvkD1y2n6vg) ([農學地圖](http://g0v.github.io/farmer/))
+* [農學地圖](http://g0v.github.io/farmer/)
 
 ## 食品安全
 
